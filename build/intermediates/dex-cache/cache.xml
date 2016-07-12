@@ -2,11 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/libs/internal_impl-23.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-dbda38ac429e949360c2f420c9b6f8c966943328.jar" />
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-4d7eca78b3a9399e2594aa2b299411cd67e10865.jar" />
+    </item>
+    <item
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6197b7baf6fe127c0f1191779ab412a9c450bc05.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-1a4a9547e619960a5fc5e48490778b4588a1cadf.jar" />
+    </item>
+    <item
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-38b8ba243aea7c7de08c139c6e5d6a0cdbcfc06e.jar" />
+    </item>
+    <item
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-b7a831f6460cd1fb70592fd0baeb5788bd1b6ab2.jar" />
     </item>
     <item
         jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/libs/volley.jar"
@@ -16,18 +44,18 @@
         <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-1a0f746d67370a77a862bc833d01e678d6fe2f71.jar" />
     </item>
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-0b207c661a02c6d7bcc258090084cd44841469a7.jar" />
-    </item>
-    <item
         jar="/Users/joonheepak/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-20aa8aafec2fadc12ecfd753881af27dc15ad12b.jar" />
+    </item>
+    <item
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1cc3e98d1e4808ef64ee3775bd1dc7b4e4d4c746.jar" />
     </item>
     <item
         jar="/Users/joonheepak/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
@@ -37,60 +65,46 @@
         <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-d36ecc563f186004ef2c530090d6ce811f929e9a.jar" />
     </item>
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-833ce78c30b9d2ae382a941f4e492192b6804ffe.jar" />
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-eefc1eee229dc532b55e711692c52b8254f5b6cf.jar" />
     </item>
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-a59e7c18055d151eb8db6ea19bafe50f3f841d22.jar" />
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d6d50e9a2195573a8ecb76752cfc29063d4e2e55.jar" />
     </item>
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-bdfcc89c7977caa89b8188e67aa8990f297d4d1f.jar" />
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f794ece87a475a587d65a6c6e5222214dd70b474.jar" />
     </item>
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-b32a5abc62cfb66e2d3bb61cf9b7c030dc2af006.jar" />
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-2f36314987efa7ea3e41e3eb69226ab2a61b30b5.jar" />
     </item>
     <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.2.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ec7e01139d75f2b4c284bb4329d4acd97920e533.jar" />
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-880a38716308d0d2bb18bbf4e63917a4de069381.jar" />
     </item>
     <item
-        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/libs/internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ac6a59e56181e55066da623c8b5c50b5831f8b57.jar" />
-    </item>
-    <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-3bbc69f8d65c16b697b86c391a6598986a86b342.jar" />
-    </item>
-    <item
-        jar="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-55c71d2b3e9555f74df960d1e8aa3cde5be4c1ab.jar" />
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/joonheepak/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-44b12a8df93fef33d5065db10038230c87391350.jar" />
     </item>
 
 </items>
