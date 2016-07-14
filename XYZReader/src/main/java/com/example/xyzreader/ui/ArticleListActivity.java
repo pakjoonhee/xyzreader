@@ -8,6 +8,7 @@ import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
@@ -56,6 +57,16 @@ public class ArticleListActivity extends ActionBarActivity implements
         if (savedInstanceState == null) {
             refresh();
         }
+        View parentLayout = findViewById(R.id.rootview);
+        Snackbar.make(parentLayout, "Welcome to the XYZ Reader!", Snackbar.LENGTH_LONG)
+            .setAction("CLOSE", new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+
+                }
+            })
+            .setActionTextColor(getResources().getColor(android.R.color.holo_red_light ))
+            .show();
     }
 
     private void refresh() {
