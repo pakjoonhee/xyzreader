@@ -45,7 +45,8 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:textColor="#6000"
+            android:textColor="#000"
+            android:textStyle="italic"
             android:maxLines="1"
             android:singleLine="true"
             android:ellipsize="end" />
