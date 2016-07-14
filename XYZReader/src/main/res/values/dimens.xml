@@ -9,4 +9,15 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="cardview_margins">4dp</dimen>
+    <dimen name="cardview_textview_paddings">16dp</dimen>
+    <dimen name="cardview_textview_padding_right">16dp</dimen>
+    <dimen name="cardview_textview_paddings_left">16dp</dimen>
+    <dimen name="cardview_textview_paddings_bottom">16dp</dimen>
+    <dimen name="cardview_textview_paddings_bottom_title">4dp</dimen>
+    <dimen name="cardview_textview_paddings_top">16dp</dimen>
+
+    <dimen name="recycler_padding_top">116dp</dimen>
+    <dimen name="recycler_padding_bottom">28dp</dimen>
+
 </resources>
